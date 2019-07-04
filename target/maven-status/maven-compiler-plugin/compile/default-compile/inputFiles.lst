@@ -1,0 +1,15 @@
+/Users/abhinav/Downloads/OyoRankingService/src/main/java/RankingService/Entity/HotelRatings.java
+/Users/abhinav/Downloads/OyoRankingService/src/main/java/RankingService/Services/SageMakerService.java
+/Users/abhinav/Downloads/OyoRankingService/src/main/java/RankingService/Services/RedisService.java
+/Users/abhinav/Downloads/OyoRankingService/src/main/java/RankingService/Entity/RankedHotels.java
+/Users/abhinav/Downloads/OyoRankingService/src/main/java/RankingService/Configurations/RedisConfiguration.java
+/Users/abhinav/Downloads/OyoRankingService/src/main/java/RankingService/Entity/HotelFeatures.java
+/Users/abhinav/Downloads/OyoRankingService/src/main/java/RankingService/Services/ElasticSearchService.java
+/Users/abhinav/Downloads/OyoRankingService/src/main/java/RankingService/Application.java
+/Users/abhinav/Downloads/OyoRankingService/src/main/java/RankingService/Entity/Hotels.java
+/Users/abhinav/Downloads/OyoRankingService/src/main/java/RankingService/Handler/RatingChecker.java
+/Users/abhinav/Downloads/OyoRankingService/src/main/java/RankingService/Controller/RankController.java
+/Users/abhinav/Downloads/OyoRankingService/src/main/java/RankingService/Entity/HotelRatingsWrapper.java
+/Users/abhinav/Downloads/OyoRankingService/src/main/java/RankingService/ScheduledJobs/RatingCronJob.java
+/Users/abhinav/Downloads/OyoRankingService/src/main/java/RankingService/Configurations/ElasticConfiguration.java
+/Users/abhinav/Downloads/OyoRankingService/src/main/java/RankingService/Handler/RankHandler.java

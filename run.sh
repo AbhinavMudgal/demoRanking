@@ -1,0 +1,1 @@
+exec java -jar target/OyoRankingService-1.0-SNAPSHOT.jar

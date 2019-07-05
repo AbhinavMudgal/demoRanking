@@ -26,8 +26,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-@Configuration
-@EnableScheduling
+//@Configuration
+//@EnableScheduling
 public class RatingCronJob {
 
     private List<String> hotelIds;
@@ -44,7 +44,7 @@ public class RatingCronJob {
         hotelIds.add("12342");
     }
 
-    @Scheduled(fixedRate = 500000)  // @Scheduled(cron="*/5 * * * * ?") every 5 sec  (0 0 12 ? * * *) at 12 pm everyday fixedRate = 500000 at every 500 sec
+    //@Scheduled(fixedRate = 500000)  // @Scheduled(cron="*/5 * * * * ?") every 5 sec  (0 0 12 ? * * *) at 12 pm everyday fixedRate = 500000 at every 500 sec
 
     public void execute() throws IOException {
         System.out.println("I schedule after 500 seconds");

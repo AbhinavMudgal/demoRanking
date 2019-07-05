@@ -18,7 +18,7 @@ public class RedisConfiguration {
     @Bean
     public JedisConnectionFactory connectionFactory() {
         RedisClusterConfiguration clusterConfiguration = new RedisClusterConfiguration();
-        RedisNode node = new RedisNode("oyoautocomplete-stag.h2xiyd.clustercfg.apse1.cache.amazonaws.com", 6379)
+        RedisNode node = new RedisNode("oyoautocomplete-stag.h2xiyd.clustercfg.apse1.cache.amazonaws.com", 6379);
         clusterConfiguration.setClusterNodes(Arrays.asList(node));
         JedisConnectionFactory connectionFactory = new JedisConnectionFactory(clusterConfiguration);
         return connectionFactory;
